@@ -44,8 +44,7 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashu10-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
+  
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashu10-wq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
